@@ -29,4 +29,3 @@ cout<<"largest number :-"<<largest<<endl;
 cout<<"smallest number :-"<<smallest;
 cout<<endl;
 }
-
